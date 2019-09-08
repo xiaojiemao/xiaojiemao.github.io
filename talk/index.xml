@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Xiaojie Mao</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Oct 2019 12:05:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Causal Inference with Noisy and Missing Covariates via Matrix Factorization</title>
+      <link>/talk/informs2019-matrix/</link>
+      <pubDate>Tue, 22 Oct 2019 12:05:00 +0000</pubDate>
+      <guid>/talk/informs2019-matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Algorithmic Fairness with Unobserved Protected Class Using Data Combination</title>
+      <link>/talk/informs2019-fairness/</link>
+      <pubDate>Sun, 20 Oct 2019 08:05:00 +0000</pubDate>
+      <guid>/talk/informs2019-fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Disparity When Protected Class Is Unobserved</title>
+      <link>/talk/fat/</link>
+      <pubDate>Wed, 30 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>/talk/fat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Outcome Disparity with Proxy for Unobserved Protected Class</title>
+      <link>/talk/c1/</link>
+      <pubDate>Sun, 21 Oct 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/c1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

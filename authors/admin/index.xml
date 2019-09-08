@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaojie Mao</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaojie Mao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xiaojie Mao</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Smooth Contextual Bandits: Bridging the Parametric and Non-differentiable Regret Regimes</title>
+      <link>/publication/smooth-bandit/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smooth-bandit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study a nonparametric contextual bandit problem where the expected reward functions belong to a Hölder class with smoothness parameter $\beta$. We show how this interpolates between two extremes that were previously studied in isolation: non-differentiable bandits ($\beta \le 1$), where rate-optimal regret is achieved by running separate non-contextual bandits in different context regions, and parametric-response bandits ($\beta = \infty$), where rate-optimal regret can be achieved with minimal or no exploration due to infinite extrapolatability. We develop a novel algorithm that carefully adjusts to all smoothness settings and we prove its regret is rate-optimal by establishing matching upper and lower bounds, recovering the existing results at the two extremes. In this sense, our work bridges the gap between the existing literature on parametric and non-differentiable contextual bandit problems and between bandit algorithms that exclusively use global or local information, shedding light on the crucial interplay of complexity and regret in contextual bandits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing Algorithmic Fairness with Unobserved Protected Class Using Data Combination</title>
+      <link>/publication/fair-data-comb/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/fair-data-comb/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The increasing impact of algorithmic decisions on people&amp;rsquo;s lives compels us to scrutinize their fairness and, in particular, the disparate impacts that ostensibly-color-blind algorithms can have on different groups. Examples include credit decisioning, hiring, advertising, criminal justice, personalized medicine, and targeted policymaking, where in some cases legislative or regulatory frameworks for fairness exist and define specific protected classes. In this paper we study a fundamental challenge to assessing disparate impacts in practice: protected class membership is often not observed in the data. This is particularly a problem in lending and healthcare. We consider the use of an auxiliary dataset, such as the US census, that includes class labels but not decisions or outcomes. We show that a variety of common disparity measures are generally unidentifiable aside for some unrealistic cases, providing a new perspective on the documented biases of popular proxy-based methods. We provide exact characterizations of the sharpest-possible partial identification set of disparities either under no assumptions or when we incorporate mild smoothness constraints. We further provide optimization-based algorithms for computing and visualizing these sets, which enables reliable and robust assessments &amp;ndash; an important tool when disparity assessment can have far-reaching policy implications. We demonstrate this in two case studies with real data: mortgage lending and personalized medicine dosing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interval Estimation of Individual-Level Causal Effects Under Unobserved Confounding</title>
+      <link>/publication/interval-cate/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/interval-cate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

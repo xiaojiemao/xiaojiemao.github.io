@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Xiaojie Mao</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a fourth-year PhD student at &lt;a href=&#34;https://stat.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Statistics&lt;/a&gt;, minoring in &lt;a href=&#34;https://www.orie.cornell.edu/orie&#34; target=&#34;_blank&#34;&gt;Operation Research&lt;/a&gt;.
+Currently, I am based at &lt;a href=&#34;https://tech.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Tech&lt;/a&gt; in NYC.
+I am very fortunate to be advised by &lt;a href=&#34;http://www.nathankallus.com/&#34; target=&#34;_blank&#34;&gt;Nathan Kallus&lt;/a&gt; and &lt;a href=&#34;https://people.orie.cornell.edu/mru8/&#34; target=&#34;_blank&#34;&gt;Madeleine Udell&lt;/a&gt;, and &lt;a href=&#34;https://people.orie.cornell.edu/pfrazier/&#34; target=&#34;_blank&#34;&gt;Peter  Frazier&lt;/a&gt; and &lt;a href=&#34;http://www.cs.cornell.edu/people/tj/&#34; target=&#34;_blank&#34;&gt;Thorsten Joachims&lt;/a&gt; are also on my committee.
+Previously, I studied &lt;a href=&#34;http://ems.whu.edu.cn/EN/&#34; target=&#34;_blank&#34;&gt;Mathematical Economics&lt;/a&gt; at &lt;a href=&#34;https://en.whu.edu.cn/&#34; target=&#34;_blank&#34;&gt;Wuhan University&lt;/a&gt;, with minor in Applied Mathematics.&lt;/p&gt;
+
+&lt;p&gt;Broadly, I work on statistical methods for data-driven decision-making that involves counterfactual reasoning.
+I am particularly interested in reliable and efficient decision-making with data challenges (e.g., measurement error, omitted variable, missing data, etc.).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nathan Kallus</title>
+      <link>/authors/nathan-kallus/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nathan-kallus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yichun Hu</title>
+      <link>/authors/yichun-hu/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yichun-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angela Zhou</title>
+      <link>/authors/angela-zhou/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/angela-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoffry Svacha</title>
+      <link>/authors/geoffry-svacha/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/geoffry-svacha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiahao Chen</title>
+      <link>/authors/jiahao-chen/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jiahao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madeleine Udell</title>
+      <link>/authors/madeleine-udell/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/madeleine-udell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaojie Mao</title>
+      <link>/authors/xiaojie-mao/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/xiaojie-mao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

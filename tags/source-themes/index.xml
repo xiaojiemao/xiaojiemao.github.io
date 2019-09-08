@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Xiaojie Mao</title>
+    <link>/tags/source-themes/</link>
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Interval Estimation of Individual-Level Causal Effects Under Unobserved Confounding</title>
+      <link>/publication/interval-cate/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/interval-cate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

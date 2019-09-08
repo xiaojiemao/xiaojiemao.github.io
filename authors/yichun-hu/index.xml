@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yichun Hu | Xiaojie Mao</title>
+    <link>/authors/yichun-hu/</link>
+      <atom:link href="/authors/yichun-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yichun Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yichun Hu</title>
+      <link>/authors/yichun-hu/</link>
+    </image>
+    
+    <item>
+      <title>Smooth Contextual Bandits: Bridging the Parametric and Non-differentiable Regret Regimes</title>
+      <link>/publication/smooth-bandit/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smooth-bandit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study a nonparametric contextual bandit problem where the expected reward functions belong to a Hölder class with smoothness parameter $\beta$. We show how this interpolates between two extremes that were previously studied in isolation: non-differentiable bandits ($\beta \le 1$), where rate-optimal regret is achieved by running separate non-contextual bandits in different context regions, and parametric-response bandits ($\beta = \infty$), where rate-optimal regret can be achieved with minimal or no exploration due to infinite extrapolatability. We develop a novel algorithm that carefully adjusts to all smoothness settings and we prove its regret is rate-optimal by establishing matching upper and lower bounds, recovering the existing results at the two extremes. In this sense, our work bridges the gap between the existing literature on parametric and non-differentiable contextual bandit problems and between bandit algorithms that exclusively use global or local information, shedding light on the crucial interplay of complexity and regret in contextual bandits.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
