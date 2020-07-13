@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2020 14:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 14:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Smooth contextual bandits - bridging the parametric and non-differentiable regret regimes</title>
+      <link>/talk/kellogg_om/</link>
+      <pubDate>Mon, 13 Jul 2020 14:00:00 +0000</pubDate>
+      <guid>/talk/kellogg_om/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Partial identification for unmeasured confounding with applications in causal inference and algorithmic fairness</title>
