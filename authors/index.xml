@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a fourth-year PhD student in &lt;a href=&#34;https://stat.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Department of Statistics and Data Science&lt;/a&gt;, minoring in &lt;a href=&#34;https://www.orie.cornell.edu/orie&#34; target=&#34;_blank&#34;&gt;Operation Research&lt;/a&gt;.
 Currently, I am based at &lt;a href=&#34;https://tech.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Tech&lt;/a&gt; in NYC.
@@ -30,7 +30,7 @@ I am particularly interested in reliable and efficient decision-making with data
     <item>
       <title>Nathan Kallus</title>
       <link>/authors/nathan-kallus/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/nathan-kallus/</guid>
       <description></description>
     </item>

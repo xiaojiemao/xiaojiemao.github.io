@@ -5,12 +5,23 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Optimization Forests</title>
+      <link>/publication/csoforest/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/csoforest/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study conditional stochastic optimization problems, where we leverage rich auxiliary observations (&lt;em&gt;e.g.&lt;/em&gt;, customer characteristics) to improve decision-making with uncertain variables (&lt;em&gt;e.g.&lt;/em&gt;, demand). We show how to train forest decision policies for this problem by growing trees that choose splits to directly optimize the downstream decision quality, rather than splitting to improve prediction accuracy as in the standard random forest algorithm. We realize this seemingly computationally intractable problem by developing approximate splitting criteria that utilize optimization perturbation analysis to eschew burdensome re-optimization for every candidate split, so that our method scales to large-scale problems. Our method can accommodate both deterministic and stochastic constraints.
+ We prove that our splitting criteria consistently approximate the true risk.
+  We extensively validate its efficacy empirically, demonstrating the value of optimization-aware construction of forests and the success of our efficient approximations. We show that our approximate splitting criteria can reduce running time hundredfold, while achieving performance close to forest algorithms that exactly re-optimize for every candidate split.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On the role of surrogates in the efficient estimation of treatment effects with limited outcome data</title>
