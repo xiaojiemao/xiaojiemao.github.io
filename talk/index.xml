@@ -5,12 +5,28 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 08:30:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 12:30:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Optimization Forests</title>
+      <link>/talk/informs2020_forest/</link>
+      <pubDate>Tue, 10 Nov 2020 12:30:00 +0000</pubDate>
+      <guid>/talk/informs2020_forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth contextual bandits - bridging the parametric and non-differentiable regret regimes</title>
+      <link>/talk/informs2020_bandit/</link>
+      <pubDate>Sun, 08 Nov 2020 13:15:00 +0000</pubDate>
+      <guid>/talk/informs2020_bandit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Localized Debiased Machine Learning: Efficient Inference on Quantile Treatment Effects and Beyond</title>
