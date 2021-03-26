@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am a fifth-year PhD student in &lt;a href=&#34;https://stat.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Department of Statistics and Data Science&lt;/a&gt;, minoring in &lt;a href=&#34;https://www.orie.cornell.edu/orie&#34; target=&#34;_blank&#34;&gt;Operation Research&lt;/a&gt;.
 Currently, I am based at &lt;a href=&#34;https://tech.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Tech&lt;/a&gt; in NYC.
@@ -24,30 +24,30 @@ Previously, I studied &lt;a href=&#34;http://ems.whu.edu.cn/EN/&#34; target=&#34
 
 &lt;p&gt;Broadly, I work on data-driven decision making and causal inference, with a particular focus on developing flexible machine learning methods for problems arising in these areas. I am interested in developing reliable methodology for decision making and statistical inference when faced with practical data challenges such as measurement error, omitted variables, missing data, among others.&lt;/p&gt;
 
-&lt;p&gt;I am on the academic job market this year, looking for faculty positions in Statistics/Data Science/Operations Research/Management Science (listed in no particular order).&lt;/p&gt;
+&lt;p&gt;I will join &lt;a href=&#34;https://www.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;Tsinghua University&lt;/a&gt; as an Assistant Professor in &lt;a href=&#34;http://www.sem.tsinghua.edu.cn/mseen/&#34; target=&#34;_blank&#34;&gt;Management Science and Engineering&lt;/a&gt; in 2021 Fall.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Nathan Kallus</title>
-      <link>/authors/nathan-kallus/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/nathan-kallus/</guid>
-      <description></description>
     </item>
     
     <item>
       <title>Masatoshi Uehara</title>
       <link>/authors/masatoshi-uehara/</link>
-      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/masatoshi-uehara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathan Kallus</title>
+      <link>/authors/nathan-kallus/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/nathan-kallus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yichun Hu</title>
       <link>/authors/yichun-hu/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/yichun-hu/</guid>
       <description></description>
     </item>

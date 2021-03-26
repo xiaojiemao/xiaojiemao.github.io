@@ -18,6 +18,51 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/negative-control/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/masatoshi-uehara/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nathan-kallus/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
     <lastmod>2020-11-10T12:30:00+00:00</lastmod>
   </url>
@@ -28,48 +73,23 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-11-10T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/informs2020_bandit/</loc>
     <lastmod>2020-11-08T13:15:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/publication/contextual-linear/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yichun-hu/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/causalseminar2020/</loc>
     <lastmod>2020-09-15T08:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nathan-kallus/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,11 +133,6 @@
   </url>
   
   <url>
-    <loc>/authors/masatoshi-uehara/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/talk/whu2019/</loc>
     <lastmod>2019-12-27T14:00:00+00:00</lastmod>
   </url>
@@ -139,11 +154,6 @@
   
   <url>
     <loc>/publication/smooth-bandit/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yichun-hu/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   

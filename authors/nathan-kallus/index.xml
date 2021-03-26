@@ -5,12 +5,50 @@
     <link>/authors/nathan-kallus/</link>
       <atom:link href="/authors/nathan-kallus/index.xml" rel="self" type="application/rss+xml" />
     <description>Nathan Kallus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Nathan Kallus</title>
       <link>/authors/nathan-kallus/</link>
     </image>
+    
+    <item>
+      <title>Causal Inference Under Unmeasured Confounding With Negative Controls: A Minimax Learning Approach</title>
+      <link>/publication/negative-control/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/negative-control/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study the estimation of causal parameters when not all confounders are
+observed and instead negative controls are available. Recent work has shown how
+these can enable identification and efficient estimation via two so-called
+bridge functions. In this paper, we tackle the primary challenge to causal
+inference using negative controls: the identification and estimation of these
+bridge functions. Previous work has relied on uniqueness and completeness
+assumptions on these functions that may be implausible in practice and also
+focused on their parametric estimation. Instead, we provide a new
+identification strategy that avoids both uniqueness and completeness. And, we
+provide a new estimators for these functions based on minimax learning
+formulations. These estimators accommodate general function classes such as
+reproducing Hilbert spaces and neural networks. We study finite-sample
+convergence results both for estimating bridge function themselves and for the
+final estimation of the causal parameter. We do this under a variety of
+combinations of assumptions that include realizability and closedness
+conditions on the hypothesis and critic classes employed in the minimax
+estimator. Depending on how much we are willing to assume, we obtain different
+convergence rates. In some cases, we show the estimate for the causal parameter
+may converge even when our bridge function estimators do not converge to any
+valid bridge function. And, in other cases, we show we can obtain
+semiparametric efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast Rates for Contextual Linear Optimization</title>
+      <link>/publication/contextual-linear/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/contextual-linear/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Incorporating side observations in decision making can reduce uncertainty and boost performance, but it also requires we tackle a potentially complex predictive relationship. While one may use off-the-shelf machine learning methods to separately learn a predictive model and plug it in, a variety of recent methods instead integrate estimation and optimization by fitting the model to directly optimize downstream decision performance. Surprisingly, in the case of contextual linear optimization, we show that the naive plug-in approach actually achieves regret convergence rates that are significantly faster than methods that directly optimize downstream decision performance. We show this by leveraging the fact that specific problem instances do not have arbitrarily bad near-dual-degeneracy. While there are other pros and cons to consider as we discuss and illustrate numerically, our results highlight a nuanced landscape for the enterprise to integrate estimation and optimization. Our results are overall positive for practice: predictive models are easy and fast to train using existing tools, simple to interpret, and, as we show, lead to decisions that perform very well.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stochastic Optimization Forests</title>
