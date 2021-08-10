@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,17 +15,28 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a fifth-year PhD student in &lt;a href=&#34;https://stat.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Department of Statistics and Data Science&lt;/a&gt;, minoring in &lt;a href=&#34;https://www.orie.cornell.edu/orie&#34; target=&#34;_blank&#34;&gt;Operation Research&lt;/a&gt;.
-Currently, I am based at &lt;a href=&#34;https://tech.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Tech&lt;/a&gt; in NYC.
-I am very fortunate to be co-advised by &lt;a href=&#34;http://www.nathankallus.com/&#34; target=&#34;_blank&#34;&gt;Nathan Kallus&lt;/a&gt; and &lt;a href=&#34;https://people.orie.cornell.edu/mru8/&#34; target=&#34;_blank&#34;&gt;Madeleine Udell&lt;/a&gt;, and &lt;a href=&#34;https://people.orie.cornell.edu/pfrazier/&#34; target=&#34;_blank&#34;&gt;Peter  Frazier&lt;/a&gt; and &lt;a href=&#34;http://www.cs.cornell.edu/people/tj/&#34; target=&#34;_blank&#34;&gt;Thorsten Joachims&lt;/a&gt; are also on my committee.
-Previously, I studied &lt;a href=&#34;http://ems.whu.edu.cn/EN/&#34; target=&#34;_blank&#34;&gt;Mathematical Economics&lt;/a&gt; at &lt;a href=&#34;https://en.whu.edu.cn/&#34; target=&#34;_blank&#34;&gt;Wuhan University&lt;/a&gt;, with minor in Applied Mathematics.&lt;/p&gt;
+      <description>&lt;p&gt;I am an assistant professor in Management Science and Engineering at &lt;a href=&#34;http://www.sem.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;Tsinghua University&lt;/a&gt;. I obtained my PhD degree in Statistics from &lt;a href=&#34;https://stat.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Department of Statistics and Data Science&lt;/a&gt;, advised by &lt;a href=&#34;http://www.nathankallus.com/&#34; target=&#34;_blank&#34;&gt;Nathan Kallus&lt;/a&gt; and &lt;a href=&#34;https://people.orie.cornell.edu/mru8/&#34; target=&#34;_blank&#34;&gt;Madeleine Udell&lt;/a&gt;. Prior to my graduate school, I studied &lt;a href=&#34;http://ems.whu.edu.cn/EN/&#34; target=&#34;_blank&#34;&gt;Mathematical Economics&lt;/a&gt; at &lt;a href=&#34;https://en.whu.edu.cn/&#34; target=&#34;_blank&#34;&gt;Wuhan University&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Broadly, I work on data-driven decision making and causal inference, with a particular focus on developing flexible machine learning methods for problems arising in these areas. I am interested in developing reliable methodology for decision making and statistical inference when faced with practical data challenges such as measurement error, omitted variables, missing data, among others.&lt;/p&gt;
-
-&lt;p&gt;I will join &lt;a href=&#34;https://www.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;Tsinghua University&lt;/a&gt; as an Assistant Professor in &lt;a href=&#34;https://www.sem.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;Management Science and Engineering&lt;/a&gt; in 2021 Fall.&lt;/p&gt;
+&lt;p&gt;Broadly, I work on data-driven decision making and causal inference, with a particular focus on developing statistical methods for problems arising in these areas. I am interested in developing reliable methodology for decision making and statistical inference when faced with practical data challenges such as measurement errors, omitted variables, missing data, among others.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Guido Imbens</title>
+      <link>/authors/guido-imbens/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/guido-imbens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathan Kallus</title>
+      <link>/authors/nathan-kallus/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/nathan-kallus/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -33,14 +44,6 @@ Previously, I studied &lt;a href=&#34;http://ems.whu.edu.cn/EN/&#34; target=&#34
       <link>/authors/masatoshi-uehara/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/masatoshi-uehara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nathan Kallus</title>
-      <link>/authors/nathan-kallus/</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/nathan-kallus/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,21 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Controlling for Unmeasured Confounding in Panel Data Using Minimal Bridge Functions: From Two-Way Fixed Effects to Factor Models</title>
+      <link>/publication/panel/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/panel/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We develop a new approach for identifying and estimating average causal effects in panel data under a linear factor model with unmeasured confounders. Compared to other methods tackling factor models such as synthetic controls and matrix completion, our method does not require the number of time periods to grow infinitely. Instead, we draw inspiration from the two-way fixed effect model as a special case of the linear factor model, where a simple difference-in-differences transformation identifies the effect. We show that analogous, albeit more complex, transformations exist in the more general linear factor model, providing a new means to identify the effect in that model. In fact many such transformations exist, called bridge functions, all identifying the same causal effect estimand. This poses a unique challenge for estimation and inference, which we solve by targeting the minimal bridge function using a regularized estimation approach. We prove that our resulting average causal effect estimator is root-N consistent and asymptotically normal, and we provide asymptotically valid confidence intervals. Finally, we provide extensions for the case of a linear factor model with time-varying unmeasured confounders.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Causal Inference Under Unmeasured Confounding With Negative Controls: A Minimax Learning Approach</title>
