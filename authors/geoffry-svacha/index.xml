@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geoffry Svacha | Xiaojie Mao</title>
-    <link>/authors/geoffry-svacha/</link>
-      <atom:link href="/authors/geoffry-svacha/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaojiemao.github.io/authors/geoffry-svacha/</link>
+      <atom:link href="https://xiaojiemao.github.io/authors/geoffry-svacha/index.xml" rel="self" type="application/rss+xml" />
     <description>Geoffry Svacha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://xiaojiemao.github.io/img/icon-192.png</url>
       <title>Geoffry Svacha</title>
-      <link>/authors/geoffry-svacha/</link>
+      <link>https://xiaojiemao.github.io/authors/geoffry-svacha/</link>
     </image>
     
     <item>
       <title>Fairness Under Unawareness: Assessing Disparity When Protected Class Is Unobserved</title>
-      <link>/publication/fairnes-unawareness/</link>
+      <link>https://xiaojiemao.github.io/publication/fairnes-unawareness/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fairnes-unawareness/</guid>
+      <guid>https://xiaojiemao.github.io/publication/fairnes-unawareness/</guid>
       <description></description>
     </item>
     

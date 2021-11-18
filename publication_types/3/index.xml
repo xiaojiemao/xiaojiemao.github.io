@@ -2,30 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Xiaojie Mao</title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaojiemao.github.io/publication_types/3/</link>
+      <atom:link href="https://xiaojiemao.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://xiaojiemao.github.io/img/icon-192.png</url>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>https://xiaojiemao.github.io/publication_types/3/</link>
     </image>
     
     <item>
+      <title>Fast Rates for Contextual Linear Optimization</title>
+      <link>https://xiaojiemao.github.io/publication/contextual-linear/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/publication/contextual-linear/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Incorporating side observations in decision making can reduce uncertainty and boost performance, but it also requires we tackle a potentially complex predictive relationship. While one may use off-the-shelf machine learning methods to separately learn a predictive model and plug it in, a variety of recent methods instead integrate estimation and optimization by fitting the model to directly optimize downstream decision performance. Surprisingly, in the case of contextual linear optimization, we show that the naive plug-in approach actually achieves regret convergence rates that are significantly faster than methods that directly optimize downstream decision performance. We show this by leveraging the fact that specific problem instances do not have arbitrarily bad near-dual-degeneracy. While there are other pros and cons to consider as we discuss and illustrate numerically, our results highlight a nuanced landscape for the enterprise to integrate estimation and optimization. Our results are overall positive for practice: predictive models are easy and fast to train using existing tools, simple to interpret, and, as we show, lead to decisions that perform very well.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smooth Contextual Bandits: Bridging the Parametric and Non-differentiable Regret Regimes</title>
+      <link>https://xiaojiemao.github.io/publication/smooth-bandit/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/publication/smooth-bandit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study a nonparametric contextual bandit problem where the expected reward functions belong to a Hölder class with smoothness parameter $\beta$. We show how this interpolates between two extremes that were previously studied in isolation: non-differentiable bandits ($\beta \le 1$), where rate-optimal regret is achieved by running separate non-contextual bandits in different context regions, and parametric-response bandits ($\beta = \infty$), where rate-optimal regret can be achieved with minimal or no exploration due to infinite extrapolatability. We develop a novel algorithm that carefully adjusts to all smoothness settings and we prove its regret is rate-optimal by establishing matching upper and lower bounds, recovering the existing results at the two extremes. In this sense, our work bridges the gap between the existing literature on parametric and non-differentiable contextual bandit problems and between bandit algorithms that exclusively use global or local information, shedding light on the crucial interplay of complexity and regret in contextual bandits.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing Algorithmic Fairness with Unobserved Protected Class Using Data Combination</title>
+      <link>https://xiaojiemao.github.io/publication/fair-data-comb/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/publication/fair-data-comb/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The increasing impact of algorithmic decisions on people&amp;rsquo;s lives compels us to scrutinize their fairness and, in particular, the disparate impacts that ostensibly-color-blind algorithms can have on different groups. Examples include credit decisioning, hiring, advertising, criminal justice, personalized medicine, and targeted policymaking, where in some cases legislative or regulatory frameworks for fairness exist and define specific protected classes. In this paper we study a fundamental challenge to assessing disparate impacts in practice: protected class membership is often not observed in the data. This is particularly a problem in lending and healthcare. We consider the use of an auxiliary dataset, such as the US census, that includes class labels but not decisions or outcomes. We show that a variety of common disparity measures are generally unidentifiable aside for some unrealistic cases, providing a new perspective on the documented biases of popular proxy-based methods. We provide exact characterizations of the sharpest-possible partial identification set of disparities either under no assumptions or when we incorporate mild smoothness constraints. We further provide optimization-based algorithms for computing and visualizing these sets, which enables reliable and robust assessments &amp;ndash; an important tool when disparity assessment can have far-reaching policy implications. We demonstrate this in two case studies with real data: mortgage lending and personalized medicine dosing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Controlling for Unmeasured Confounding in Panel Data Using Minimal Bridge Functions: From Two-Way Fixed Effects to Factor Models</title>
-      <link>/publication/panel/</link>
+      <link>https://xiaojiemao.github.io/publication/panel/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/panel/</guid>
+      <guid>https://xiaojiemao.github.io/publication/panel/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We develop a new approach for identifying and estimating average causal effects in panel data under a linear factor model with unmeasured confounders. Compared to other methods tackling factor models such as synthetic controls and matrix completion, our method does not require the number of time periods to grow infinitely. Instead, we draw inspiration from the two-way fixed effect model as a special case of the linear factor model, where a simple difference-in-differences transformation identifies the effect. We show that analogous, albeit more complex, transformations exist in the more general linear factor model, providing a new means to identify the effect in that model. In fact many such transformations exist, called bridge functions, all identifying the same causal effect estimand. This poses a unique challenge for estimation and inference, which we solve by targeting the minimal bridge function using a regularized estimation approach. We prove that our resulting average causal effect estimator is root-N consistent and asymptotically normal, and we provide asymptotically valid confidence intervals. Finally, we provide extensions for the case of a linear factor model with time-varying unmeasured confounders.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Causal Inference Under Unmeasured Confounding With Negative Controls: A Minimax Learning Approach</title>
-      <link>/publication/negative-control/</link>
+      <link>https://xiaojiemao.github.io/publication/negative-control/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/negative-control/</guid>
+      <guid>https://xiaojiemao.github.io/publication/negative-control/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study the estimation of causal parameters when not all confounders are
 observed and instead negative controls are available. Recent work has shown how
 these can enable identification and efficient estimation via two so-called
@@ -51,58 +78,31 @@ semiparametric efficiency.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Fast Rates for Contextual Linear Optimization</title>
-      <link>/publication/contextual-linear/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/contextual-linear/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: Incorporating side observations in decision making can reduce uncertainty and boost performance, but it also requires we tackle a potentially complex predictive relationship. While one may use off-the-shelf machine learning methods to separately learn a predictive model and plug it in, a variety of recent methods instead integrate estimation and optimization by fitting the model to directly optimize downstream decision performance. Surprisingly, in the case of contextual linear optimization, we show that the naive plug-in approach actually achieves regret convergence rates that are significantly faster than methods that directly optimize downstream decision performance. We show this by leveraging the fact that specific problem instances do not have arbitrarily bad near-dual-degeneracy. While there are other pros and cons to consider as we discuss and illustrate numerically, our results highlight a nuanced landscape for the enterprise to integrate estimation and optimization. Our results are overall positive for practice: predictive models are easy and fast to train using existing tools, simple to interpret, and, as we show, lead to decisions that perform very well.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Stochastic Optimization Forests</title>
-      <link>/publication/csoforest/</link>
+      <link>https://xiaojiemao.github.io/publication/csoforest/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/csoforest/</guid>
+      <guid>https://xiaojiemao.github.io/publication/csoforest/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study conditional stochastic optimization problems, where we leverage rich auxiliary observations (&lt;em&gt;e.g.&lt;/em&gt;, customer characteristics) to improve decision-making with uncertain variables (&lt;em&gt;e.g.&lt;/em&gt;, demand). We show how to train forest decision policies for this problem by growing trees that choose splits to directly optimize the downstream decision quality, rather than splitting to improve prediction accuracy as in the standard random forest algorithm. We realize this seemingly computationally intractable problem by developing approximate splitting criteria that utilize optimization perturbation analysis to eschew burdensome re-optimization for every candidate split, so that our method scales to large-scale problems. Our method can accommodate both deterministic and stochastic constraints.
- We prove that our splitting criteria consistently approximate the true risk.
-  We extensively validate its efficacy empirically, demonstrating the value of optimization-aware construction of forests and the success of our efficient approximations. We show that our approximate splitting criteria can reduce running time hundredfold, while achieving performance close to forest algorithms that exactly re-optimize for every candidate split.&lt;/p&gt;
+We prove that our splitting criteria consistently approximate the true risk.
+We extensively validate its efficacy empirically, demonstrating the value of optimization-aware construction of forests and the success of our efficient approximations. We show that our approximate splitting criteria can reduce running time hundredfold, while achieving performance close to forest algorithms that exactly re-optimize for every candidate split.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the role of surrogates in the efficient estimation of treatment effects with limited outcome data</title>
-      <link>/publication/surrogate/</link>
+      <link>https://xiaojiemao.github.io/publication/surrogate/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/surrogate/</guid>
+      <guid>https://xiaojiemao.github.io/publication/surrogate/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study the problem of estimating treatment effects when the outcome of primary interest (e.g., long-term health status) is only seldom observed but abundant surrogate observations (e.g., short-term health outcomes) are available. To investigate the role of surrogates in this setting, we derive the semiparametric efficiency lower bounds of average treatment effect (ATE) both with and without presence of surrogates, as well as several intermediary settings. These bounds characterize the best-possible precision of ATE estimation in each case, and their difference quantifies the efficiency gains from optimally leveraging the surrogates in terms of key problem characteristics when only limited outcome data are available. We show these results apply in two important regimes: when the number of surrogate observations is comparable to primary-outcome observations and when the former dominates the latter. Importantly, we take a missing-data approach that circumvents strong surrogate conditions which are commonly assumed in previous literature but almost always fail in practice. To show how to leverage the efficiency gains of surrogate observations, we propose ATE estimators and inferential methods based on flexible machine learning methods to estimate nuisance parameters that appear in the influence functions. We show our estimators enjoy efficiency and robustness guarantees under weak conditions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Localized Debiased Machine Learning: Efficient Estimation of Quantile Treatment Effects, Conditional Value at Risk, and Beyond</title>
-      <link>/publication/localizeddml/</link>
+      <link>https://xiaojiemao.github.io/publication/localizeddml/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/localizeddml/</guid>
+      <guid>https://xiaojiemao.github.io/publication/localizeddml/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We consider the efficient estimation of a low-dimensional parameter in the presence of very high-dimensional nuisances that may depend on the parameter of interest. An important example is the quantile treatment effect (QTE) in causal inference, where the efficient estimation equation involves as a nuisance the conditional cumulative distribution evaluated at the quantile to be estimated. Debiased machine learning (DML) is a data-splitting approach to address the need to estimate nuisances using flexible machine learning methods that may not satisfy strong metric entropy conditions, but applying it to problems with estimand-dependent nuisances would require estimating too many nuisances to be practical. For the QTE estimation, DML requires we learn the whole conditional cumulative distribution function, which may be challenging in practice and stands in contrast to only needing to estimate just two regression functions as in the efficient estimation of average treatment effects. Instead, we propose localized debiased machine learning (LDML), a new three-way data-splitting approach that avoids this burdensome step and needs only estimate the nuisances at a single initial bad guess for the parameters. In particular, under a Frechet-derivative orthogonality condition, we show the oracle estimation equation is asymptotically equivalent to one where the nuisance is evaluated at the true parameter value and we provide a strategy to target this alternative formulation. In the case of QTE estimation, this involves only learning two binary regression models, for which many standard, time-tested machine learning methods exist. We prove that under certain lax rate conditions, our estimator has the same favorable asymptotic behavior as the infeasible oracle estimator that solves the estimating equation with the true nuisance functions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Smooth Contextual Bandits: Bridging the Parametric and Non-differentiable Regret Regimes</title>
-      <link>/publication/smooth-bandit/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/smooth-bandit/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study a nonparametric contextual bandit problem where the expected reward functions belong to a Hölder class with smoothness parameter $\beta$. We show how this interpolates between two extremes that were previously studied in isolation: non-differentiable bandits ($\beta \le 1$), where rate-optimal regret is achieved by running separate non-contextual bandits in different context regions, and parametric-response bandits ($\beta = \infty$), where rate-optimal regret can be achieved with minimal or no exploration due to infinite extrapolatability. We develop a novel algorithm that carefully adjusts to all smoothness settings and we prove its regret is rate-optimal by establishing matching upper and lower bounds, recovering the existing results at the two extremes. In this sense, our work bridges the gap between the existing literature on parametric and non-differentiable contextual bandit problems and between bandit algorithms that exclusively use global or local information, shedding light on the crucial interplay of complexity and regret in contextual bandits.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Assessing Algorithmic Fairness with Unobserved Protected Class Using Data Combination</title>
-      <link>/publication/fair-data-comb/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fair-data-comb/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The increasing impact of algorithmic decisions on people&amp;rsquo;s lives compels us to scrutinize their fairness and, in particular, the disparate impacts that ostensibly-color-blind algorithms can have on different groups. Examples include credit decisioning, hiring, advertising, criminal justice, personalized medicine, and targeted policymaking, where in some cases legislative or regulatory frameworks for fairness exist and define specific protected classes. In this paper we study a fundamental challenge to assessing disparate impacts in practice: protected class membership is often not observed in the data. This is particularly a problem in lending and healthcare. We consider the use of an auxiliary dataset, such as the US census, that includes class labels but not decisions or outcomes. We show that a variety of common disparity measures are generally unidentifiable aside for some unrealistic cases, providing a new perspective on the documented biases of popular proxy-based methods. We provide exact characterizations of the sharpest-possible partial identification set of disparities either under no assumptions or when we incorporate mild smoothness constraints. We further provide optimization-based algorithms for computing and visualizing these sets, which enables reliable and robust assessments &amp;ndash; an important tool when disparity assessment can have far-reaching policy implications. We demonstrate this in two case studies with real data: mortgage lending and personalized medicine dosing.&lt;/p&gt;
 </description>
     </item>
     

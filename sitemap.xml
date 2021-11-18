@@ -1,296 +1,173 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://xiaojiemao.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/admin/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication_types/3/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/contextual-linear/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/nathan-kallus/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication_types/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/yichun-hu/</loc>
+    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/smooth-bandit/</loc>
+    <lastmod>2021-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/angela-zhou/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/fair-data-comb/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/panel/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/guido-imbens/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/panel/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/guido-imbens/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nathan-kallus/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/negative-control/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/negative-control/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/masatoshi-uehara/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/masatoshi-uehara/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/</loc>
     <lastmod>2020-11-10T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/informs2020_forest/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/informs2020_forest/</loc>
     <lastmod>2020-11-10T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/informs2020_bandit/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/informs2020_bandit/</loc>
     <lastmod>2020-11-08T13:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/contextual-linear/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yichun-hu/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/causalseminar2020/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/causalseminar2020/</loc>
     <lastmod>2020-09-15T08:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/csoforest/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/csoforest/</loc>
     <lastmod>2020-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/kellogg_om/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/kellogg_om/</loc>
     <lastmod>2020-07-13T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/colt2020/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/colt2020/</loc>
     <lastmod>2020-07-12T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/surrogate/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/surrogate/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/tsinghua_2019/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/tsinghua_2019/</loc>
     <lastmod>2020-01-06T14:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/shufe2019/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/shufe2019/</loc>
     <lastmod>2020-01-03T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/sjtu2019/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/sjtu2019/</loc>
     <lastmod>2020-01-02T10:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/localizeddml/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/localizeddml/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/whu2019/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/whu2019/</loc>
     <lastmod>2019-12-27T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/informs2019-matrix/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/informs2019-matrix/</loc>
     <lastmod>2019-10-22T12:05:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/informs2019-fairness/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/informs2019-fairness/</loc>
     <lastmod>2019-10-20T08:05:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/young-researcher/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/young-researcher/</loc>
     <lastmod>2019-10-04T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/smooth-bandit/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/angela-zhou/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fair-data-comb/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication_types/1/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/interval-cate/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/interval-cate/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/fat/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/fat/</loc>
     <lastmod>2019-01-30T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fairnes-unawareness/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/fairnes-unawareness/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/geoffry-svacha/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/geoffry-svacha/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jiahao-chen/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/jiahao-chen/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/madeleine-udell/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/madeleine-udell/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaojie-mao/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/authors/xiaojie-mao/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/matrix/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/publication/matrix/</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/c1/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/talk/c1/</loc>
     <lastmod>2018-10-21T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/categories/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/post/</loc>
+  </url><url>
+    <loc>https://xiaojiemao.github.io/preprint/</loc>
   </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/preprint/</loc>
-  </url>
-  
 </urlset>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preprint | Xiaojie Mao</title>
-    <link>/preprint/</link>
-      <atom:link href="/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaojiemao.github.io/preprint/</link>
+      <atom:link href="https://xiaojiemao.github.io/preprint/index.xml" rel="self" type="application/rss+xml" />
     <description>Preprint</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://xiaojiemao.github.io/img/icon-192.png</url>
       <title>Preprint</title>
-      <link>/preprint/</link>
+      <link>https://xiaojiemao.github.io/preprint/</link>
     </image>
     
   </channel>

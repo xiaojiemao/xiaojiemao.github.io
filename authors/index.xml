@@ -2,98 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Xiaojie Mao</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xiaojiemao.github.io/authors/</link>
+      <atom:link href="https://xiaojiemao.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://xiaojiemao.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://xiaojiemao.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am an assistant professor in Management Science and Engineering at &lt;a href=&#34;http://www.sem.tsinghua.edu.cn/en/&#34; target=&#34;_blank&#34;&gt;Tsinghua University&lt;/a&gt;. I obtained my PhD degree in Statistics from &lt;a href=&#34;https://stat.cornell.edu/&#34; target=&#34;_blank&#34;&gt;Cornell Department of Statistics and Data Science&lt;/a&gt;, advised by &lt;a href=&#34;http://www.nathankallus.com/&#34; target=&#34;_blank&#34;&gt;Nathan Kallus&lt;/a&gt; and &lt;a href=&#34;https://people.orie.cornell.edu/mru8/&#34; target=&#34;_blank&#34;&gt;Madeleine Udell&lt;/a&gt;. Prior to my graduate school, I studied &lt;a href=&#34;http://ems.whu.edu.cn/EN/&#34; target=&#34;_blank&#34;&gt;Mathematical Economics&lt;/a&gt; at &lt;a href=&#34;https://en.whu.edu.cn/&#34; target=&#34;_blank&#34;&gt;Wuhan University&lt;/a&gt;.&lt;/p&gt;
-
+      <link>https://xiaojiemao.github.io/authors/admin/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am an assistant professor in Management Science and Engineering at &lt;a href=&#34;http://www.sem.tsinghua.edu.cn/en/&#34;&gt;Tsinghua University&lt;/a&gt;. I obtained my PhD degree in Statistics from &lt;a href=&#34;https://stat.cornell.edu/&#34;&gt;Cornell Department of Statistics and Data Science&lt;/a&gt;, advised by &lt;a href=&#34;http://www.nathankallus.com/&#34;&gt;Nathan Kallus&lt;/a&gt; and &lt;a href=&#34;https://people.orie.cornell.edu/mru8/&#34;&gt;Madeleine Udell&lt;/a&gt;. Prior to my graduate school, I studied &lt;a href=&#34;http://ems.whu.edu.cn/EN/&#34;&gt;Mathematical Economics&lt;/a&gt; at &lt;a href=&#34;https://en.whu.edu.cn/&#34;&gt;Wuhan University&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Broadly, I work on data-driven decision making and causal inference, with a particular focus on developing statistical methods for problems arising in these areas. I am interested in developing reliable methodology for decision making and statistical inference when faced with practical data challenges such as measurement errors, omitted variables, missing data, among others.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sem.tsinghua.edu.cn/zh/maoxiaojie&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is my Tsinghua webpage in Chinese.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sem.tsinghua.edu.cn/zh/maoxiaojie&#34;&gt;Here&lt;/a&gt; is my Tsinghua webpage in Chinese.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Guido Imbens</title>
-      <link>/authors/guido-imbens/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/guido-imbens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nathan Kallus</title>
-      <link>/authors/nathan-kallus/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/nathan-kallus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Masatoshi Uehara</title>
-      <link>/authors/masatoshi-uehara/</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/masatoshi-uehara/</guid>
+      <link>https://xiaojiemao.github.io/authors/nathan-kallus/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/authors/nathan-kallus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yichun Hu</title>
-      <link>/authors/yichun-hu/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yichun-hu/</guid>
+      <link>https://xiaojiemao.github.io/authors/yichun-hu/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/authors/yichun-hu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angela Zhou</title>
-      <link>/authors/angela-zhou/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/angela-zhou/</guid>
+      <link>https://xiaojiemao.github.io/authors/angela-zhou/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/authors/angela-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guido Imbens</title>
+      <link>https://xiaojiemao.github.io/authors/guido-imbens/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/authors/guido-imbens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masatoshi Uehara</title>
+      <link>https://xiaojiemao.github.io/authors/masatoshi-uehara/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/authors/masatoshi-uehara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geoffry Svacha</title>
-      <link>/authors/geoffry-svacha/</link>
+      <link>https://xiaojiemao.github.io/authors/geoffry-svacha/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/geoffry-svacha/</guid>
+      <guid>https://xiaojiemao.github.io/authors/geoffry-svacha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jiahao Chen</title>
-      <link>/authors/jiahao-chen/</link>
+      <link>https://xiaojiemao.github.io/authors/jiahao-chen/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jiahao-chen/</guid>
+      <guid>https://xiaojiemao.github.io/authors/jiahao-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Madeleine Udell</title>
-      <link>/authors/madeleine-udell/</link>
+      <link>https://xiaojiemao.github.io/authors/madeleine-udell/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/madeleine-udell/</guid>
+      <guid>https://xiaojiemao.github.io/authors/madeleine-udell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiaojie Mao</title>
-      <link>/authors/xiaojie-mao/</link>
+      <link>https://xiaojiemao.github.io/authors/xiaojie-mao/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/xiaojie-mao/</guid>
+      <guid>https://xiaojiemao.github.io/authors/xiaojie-mao/</guid>
       <description></description>
     </item>
     
