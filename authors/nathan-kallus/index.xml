@@ -5,12 +5,23 @@
     <link>https://xiaojiemao.github.io/authors/nathan-kallus/</link>
       <atom:link href="https://xiaojiemao.github.io/authors/nathan-kallus/index.xml" rel="self" type="application/rss+xml" />
     <description>Nathan Kallus</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xiaojiemao.github.io/img/icon-192.png</url>
       <title>Nathan Kallus</title>
       <link>https://xiaojiemao.github.io/authors/nathan-kallus/</link>
     </image>
+    
+    <item>
+      <title>Stochastic Optimization Forests</title>
+      <link>https://xiaojiemao.github.io/publication/csoforest/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://xiaojiemao.github.io/publication/csoforest/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study conditional stochastic optimization problems, where we leverage rich auxiliary observations (&lt;em&gt;e.g.&lt;/em&gt;, customer characteristics) to improve decision-making with uncertain variables (&lt;em&gt;e.g.&lt;/em&gt;, demand). We show how to train forest decision policies for this problem by growing trees that choose splits to directly optimize the downstream decision quality, rather than splitting to improve prediction accuracy as in the standard random forest algorithm. We realize this seemingly computationally intractable problem by developing approximate splitting criteria that utilize optimization perturbation analysis to eschew burdensome re-optimization for every candidate split, so that our method scales to large-scale problems. Our method can accommodate both deterministic and stochastic constraints.
+We prove that our splitting criteria consistently approximate the true risk.
+We extensively validate its efficacy empirically, demonstrating the value of optimization-aware construction of forests and the success of our efficient approximations. We show that our approximate splitting criteria can reduce running time hundredfold, while achieving performance close to forest algorithms that exactly re-optimize for every candidate split.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fast Rates for Contextual Linear Optimization</title>
@@ -74,17 +85,6 @@ convergence rates. In some cases, we show the estimate for the causal parameter
 may converge even when our bridge function estimators do not converge to any
 valid bridge function. And, in other cases, we show we can obtain
 semiparametric efficiency.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stochastic Optimization Forests</title>
-      <link>https://xiaojiemao.github.io/publication/csoforest/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://xiaojiemao.github.io/publication/csoforest/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We study conditional stochastic optimization problems, where we leverage rich auxiliary observations (&lt;em&gt;e.g.&lt;/em&gt;, customer characteristics) to improve decision-making with uncertain variables (&lt;em&gt;e.g.&lt;/em&gt;, demand). We show how to train forest decision policies for this problem by growing trees that choose splits to directly optimize the downstream decision quality, rather than splitting to improve prediction accuracy as in the standard random forest algorithm. We realize this seemingly computationally intractable problem by developing approximate splitting criteria that utilize optimization perturbation analysis to eschew burdensome re-optimization for every candidate split, so that our method scales to large-scale problems. Our method can accommodate both deterministic and stochastic constraints.
-We prove that our splitting criteria consistently approximate the true risk.
-We extensively validate its efficacy empirically, demonstrating the value of optimization-aware construction of forests and the success of our efficient approximations. We show that our approximate splitting criteria can reduce running time hundredfold, while achieving performance close to forest algorithms that exactly re-optimize for every candidate split.&lt;/p&gt;
 </description>
     </item>
     
